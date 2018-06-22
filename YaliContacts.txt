@@ -2,7 +2,21 @@
 <!DOCTYPE QR SYSTEM "YaliContact.dtd">
 
 <Yalicontacts>
+<contact ID="0" name="xxxxy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+  <company>
+     What company
+  </company>
+  <address>
+     what location
+  </address>
 
+  <history datetime="2018.06.21" title="Job at Washington DC">
+       What history
+  </history>
+  <history datetime="2018.06.21" title="Confirmation of hourly rate">
+       what history 2
+  </history>
+</contact>
 <contact ID="1" name="Krishna Venkata" type="Recruiter" phone="703-459-0495" work="571-612-3946" country="USA" email="kvenkata@princetoninformation.com" >
   <company>
      Princeton Information

@@ -10,10 +10,12 @@
 using namespace tinyxml2;
 using namespace std;
 vector<Contact> GetContacts(XMLElement * parent);
+void showcontact(Contact & ct);
+void promptAtQuestion();
 char filename[100] = "YaliContacts.txt";
 int main(int argc, const char ** argv)
 {
-	cout << "Contacts version 1.00" << endl << endl;
+	cout << "Contacts version 1.10" << endl << endl;
 
 	XMLDocument* doc = new XMLDocument();          //in tinyxml2 namespace
 	if (argc == 1) {
@@ -44,15 +46,59 @@ int main(int argc, const char ** argv)
 		contacts = GetContacts(root);
 	}
 	cout << "Number of contacts loaded: " << contacts.size() << endl << endl;
+	while (true) {
+		cout << "   Please input the first 3 digits of phone number: ";
+		char k[32] = { 0 };
+		cin.getline(k, 30);
 
-	cout << "   Please input the first 3 digits of phone number: ";
-	char k[32] = { 0 };
-	cin.getline(k, 30);
+		cout << "Your have inputed :" << k << endl;
 
-	cout << "Your have inputed :" << k << endl;
+		for (vector<Contact>::iterator it = contacts.begin(); it != contacts.end(); ++it) {
+			string phone = it->phone;
+			std::size_t found = phone.find(k);
+			if (found != std::string::npos)
+				std::cout << it->id << " " << phone.c_str() << " " << it->name << " " << it->email << endl;
+		}
 
+		promptAtQuestion();
+		while (true) {			
+			cin.getline(k, 30);
+			system("CLS");
+			int idinput = atoi(k);
+			if ((k[0] == 'x') || (k[0] == 'q'))
+				exit(0);
+			else if ((idinput > 0) && (idinput < contacts.size())) {
+				Contact ct = contacts[idinput];
+				showcontact(ct);
+				promptAtQuestion();
+			}
+			else {
+				break;
+			}
+		}
+	}
 	cin.get();
     return 0;
+}
+void showcontact(Contact & ct) {
+	cout << "ID: " << ct.id << endl;
+	cout << "name: " << ct.name << endl;
+	cout << "phone: " << ct.phone << endl;
+	cout << "email: " << ct.email << endl;
+	cout << "company: " << ct.company << endl;
+	cout << "History: " << endl;
+	int sz = ct.histories.size();
+	for (int i = 0; i< sz ; i++) {
+		cout << "    Date: " << ct.histories[i].datetime << "    title: " << ct.histories[i].title << endl;
+		cout << "        " << ct.histories[i].description << endl;
+	}
+}
+void promptAtQuestion() {
+	printf("\n\n --------------------------------------------\n");
+	printf("        ID Number: jump to contact\n");
+	printf("            Enter: Search \n");	
+	printf("           q or x: Exit \n");
+	printf("       Your Input: ");
 }
 vector<History> GetHistory(XMLElement * brother) {
 	if (!brother) {
