@@ -2,7 +2,7 @@
 <!DOCTYPE QR SYSTEM "YaliContact.dtd">
 
 <Yalicontacts>
-<contact ID="0" name="xxxxy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID=" 0" name="dummy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
   <company>
      What company
   </company>
@@ -17,7 +17,7 @@
        what history 2
   </history>
 </contact>
-<contact ID="1" name="Krishna Venkata" type="Recruiter" phone="703-459-0495" work="571-612-3946" country="USA" email="kvenkata@princetoninformation.com" >
+<contact ID=" 1" name="Krishna Venkata" type="Recruiter" phone="703-459-0495" work="571-612-3946" country="USA" email="kvenkata@princetoninformation.com" >
   <company>
      Princeton Information
   </company>
@@ -38,7 +38,154 @@
   </history>
 </contact>
 
-<contact ID="2" name="xxxx" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID=" 2" name="Sarah Moosvi   " type="Recruiter" phone="203-442-9710" work="xxx" country="USA" email="Sarah.Moosvi@panzersols.com" >
+  <company>
+     Panzer Solusions
+  </company>
+  
+  <history datetime="2018.06.21" title="Job at Virginia Beach, VA">
+       Job Title:    .Net API Dev Lead
+           Location:    Virginia Beach, VA
+           Duration:    6+ Months
+ 
+           Job Description:
+           Must have at least 5 years experience demonstrating integration and design of API layer elements. 
+           Should have experience in MVC 4.0 and 5.0 
+           Should have good knowledge in building and maintaining Micro services.  
+           Nice to have experience in .NET Core and hosting on Docker 
+           Should have experience in hosting REST service security and optimization of performance. 
+           Nice to have experience in developing SOAP Services. 
+           Experience in integration with third party systems and solutions will be an added advantage
+  </history>
+</contact>
+
+<contact ID=" 3" name="Ajay Choudhary " type="Recruiter" phone="678-553-8914" work="xxx" country="USA" email="ajay.choudhary@acsicorp.com" >
+  <company>
+     ACS Group
+  </company>
+
+  <history datetime="2018.06.21" title="Software Developer Job at Lanham, MD">
+       Job Title: Software Developer/Programmer
+
+       Location: Lanham, MD
+       Duration:  Permanent
+
+       Salary + Benefits (Including 15 Days Paid Leaves, 10 Federal Holidays, 401K, Medical, Dental and Vision)
+       Job Purpose:
+
+       Formulates and defines system scope and objectives for assigned projects.
+       Prepares detailed specifications for programs.
+       Responsible for program design, coding, testing, debugging and documentation.
+       Has full technical knowledge and responsibility of all phases of applications systems analysis and programming.
+       Understands the business or function for which application is designed.
+       Duties also include instructing, directing and checking the work of other systems analysts and programming personnel.
+ 
+       The candidate shall have the following skills:
+
+       Software Development knowledge and or experience in C/C++
+       8+ years of work experience
+       Database knowledge and or experience with the ability to work with SQL queries and statements 
+       UNIX experience desired
+       Image processing experience desired.
+       .NET not required but beneficial
+       Existing MBI desirable
+  </history>
+ 
+</contact>
+
+<contact ID=" 4" name="Abhinav Sharma " type="Recruiter" phone="408-418-5779" work="xxx" country="USA" email="abhinav.sharma@idctechnologies.com" >
+  <company>
+     IDC Technologies Inc
+  </company>
+  <address>
+     1851 McCarthy Blvd Milpitas, CA 95035
+  </address>
+
+  <history datetime="2018.06.21" title=".Net developer Job at Boca Ratan, FL">
+       Position: .Net Developer
+       Location: Boca Ratan, FL
+ 
+	Job Description:
+	Experience using .NET , WCF, MVC, ADO.NET, CSS, Javascript, Angular.JS, HTML5, CSS 3.0 Bootstrap
+	Tools Visual Studio
+	Database: SQL Server database
+	BitBucket, Jenkins, MS Build, Artifactory & Anisble tower
+	Very good communication skills.
+  </history>
+</contact>
+
+<contact ID=" 5" name="Rohan Singh    " type="Recruiter" phone="302-286-9010" work="xxx" country="USA" email="rohan@conq-tech.com" >
+  <company>
+     Conquest Tech Solutions, Inc
+  </company>
+  <address>
+     19 C Trolley Square, Wilmington, DE – 19806
+  </address>
+
+  <history datetime="2018.06.21" title="Embedded Developer Job at Rockford, IL">
+       Job Role: Embedded Developer Role
+
+	Duration: Full Time
+	Location: Rockford, IL
+	Job Description
+
+	- To perform avionics embedded SW development / verification complying to DO-178B/C
+	- To gather and evaluate customer and industry specifications/requirements based on understanding of domain and technology.
+	- Develop, validate, and manage system/equipment-level requirements, and decompose these requirements to lower-level HW/SW functions.
+	- To ensure knowledge of current and new technologies so that solutions are current and meet customer requirements, expectations, and quality standards.
+
+        Skills:
+
+	- Strong Avionics embedded software development and verification experience complying to DO-178B/C
+	- Experience in Requirement analysis, design coding using C
+        - MBD development experience using Matlab/ Simulink/ Stateflow
+        - Experience with working in MPC5554 and TI processors
+        - Experience in DOORS, Synergy
+        - Good verification validation experience (RBT, Module testing, HSIT testing etc)
+        - Primarily software development experience in Electrical systems
+        - Excellent communication skills
+  </history>
+  
+</contact>
+
+<contact ID="6" name="Roy            " type="Recruiter" phone="571-645-5971" work="xxx" country="USA" email="ROY.K@CYNETSYSTEMS.COM" >
+  <company>
+     CYNET SYSTEMS Inc
+  </company>
+  <address>
+     Not Available
+  </address>
+
+  <history datetime="2018.06.19" title="Software Developer Job at Urbandale, IA">
+        Title:  Software Developer (C++)
+
+	Location:  Urbandale, IA
+	Terms: Full Time / Direct Hire / Contract (12+ Months)
+
+	Job Details:
+	  Overview:
+
+	In this challenging role, you will be responsible for executing complex projects in the area of real time embedded systems software applications. The candidate must be able work in pair among team members in architecture, design and development activities. The candidate must be able to work in multisite development environment coordinating with other domestic and/or international teams. 
+ 
+	Position responsibilities:
+	Real time embedded software design, development and testing
+	Participate and (or) conduct design and code reviews and other defect prevention activities
+	Code integration, configuration management and release processes
+
+	Skills:
+
+	Experience in C/C++ programming
+	Knowledge on scripting languages like Python, Shell
+	Experience with embedded Linux and cross compilation tools
+	Experience with Software debugging tools and issue resolution
+	Familiar with CAN/J1939 or other automotive protocols
+	Experience with version control systems such as SVN, Git and Mercurial.
+	Knowledge on AGILE SCRUM methodology, Test Driven Development (TDD) and Acceptance Test Driven Development (ATDD)
+	Knowledge of agricultural equipment and applications 
+  </history>
+</contact>
+
+<contact ID="7" name="xxxyyxxxyyxxxyy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
   <company>
      What company
   </company>
@@ -54,7 +201,7 @@
   </history>
 </contact>
 
-<contact ID="3" name="xxxxy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID="8" name="xxxyyxxxyyxxxyy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
   <company>
      What company
   </company>
@@ -70,7 +217,7 @@
   </history>
 </contact>
 
-<contact ID="4" name="xxxx" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID="9" name="xxxyyxxxyyxxxyy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
   <company>
      What company
   </company>
@@ -86,7 +233,7 @@
   </history>
 </contact>
 
-<contact ID="5" name="xxxx" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID="10" name="xxxyyxxxyyxxxyy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
   <company>
      What company
   </company>
@@ -102,87 +249,7 @@
   </history>
 </contact>
 
-<contact ID="6" name="xxxx" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
-  <company>
-     What company
-  </company>
-  <address>
-     what location
-  </address>
-
-  <history datetime="2018.06.21" title="Job at Washington DC">
-       What history
-  </history>
-  <history datetime="2018.06.21" title="Confirmation of hourly rate">
-       what history 2
-  </history>
-</contact>
-
-<contact ID="7" name="xxxx" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
-  <company>
-     What company
-  </company>
-  <address>
-     what location
-  </address>
-
-  <history datetime="2018.06.21" title="Job at Washington DC">
-       What history
-  </history>
-  <history datetime="2018.06.21" title="Confirmation of hourly rate">
-       what history 2
-  </history>
-</contact>
-
-<contact ID="8" name="xxxx" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
-  <company>
-     What company
-  </company>
-  <address>
-     what location
-  </address>
-
-  <history datetime="2018.06.21" title="Job at Washington DC">
-       What history
-  </history>
-  <history datetime="2018.06.21" title="Confirmation of hourly rate">
-       what history 2
-  </history>
-</contact>
-
-<contact ID="9" name="xxxx" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
-  <company>
-     What company
-  </company>
-  <address>
-     what location
-  </address>
-
-  <history datetime="2018.06.21" title="Job at Washington DC">
-       What history
-  </history>
-  <history datetime="2018.06.21" title="Confirmation of hourly rate">
-       what history 2
-  </history>
-</contact>
-
-<contact ID="10" name="xxxx" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
-  <company>
-     What company
-  </company>
-  <address>
-     what location
-  </address>
-
-  <history datetime="2018.06.21" title="Job at Washington DC">
-       What history
-  </history>
-  <history datetime="2018.06.21" title="Confirmation of hourly rate">
-       what history 2
-  </history>
-</contact>
-
-<contact ID="" name="xxxx" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID="" name="xxxyyxxxyyxxxyy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
   <company>
      What company
   </company>

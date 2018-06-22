@@ -55,9 +55,13 @@ int main(int argc, const char ** argv)
 
 		for (vector<Contact>::iterator it = contacts.begin(); it != contacts.end(); ++it) {
 			string phone = it->phone;
+			string work = it->work;
 			std::size_t found = phone.find(k);
-			if (found != std::string::npos)
-				std::cout << it->id << " " << phone.c_str() << " " << it->name << " " << it->email << endl;
+			std::size_t found2 = work.find(k);
+			if ((found != std::string::npos) || (found2 != std::string::npos)) {
+				std::cout << it->id << " " << phone.c_str() << " " << it->name << " " << it->email << " ";
+				cout << it->histories[0].title << endl;
+			}
 		}
 
 		promptAtQuestion();
@@ -86,6 +90,7 @@ void showcontact(Contact & ct) {
 	cout << "phone: " << ct.phone << endl;
 	cout << "email: " << ct.email << endl;
 	cout << "company: " << ct.company << endl;
+	cout << "address: " << ct.address << endl;
 	cout << "History: " << endl;
 	int sz = ct.histories.size();
 	for (int i = 0; i< sz ; i++) {
@@ -145,12 +150,19 @@ vector<Contact> GetContacts(XMLElement * parent) {
 		QA->QueryStringAttribute("type", &type);
 		QA->QueryStringAttribute("work", &workNo);
 		
+		Contact q(id, name, phone, email);
 		
-		const string company = QA->FirstChildElement("company")->GetText();
-		const string address = QA->FirstChildElement("address")->GetText();
-		Contact q(id, name, phone,email);		
-		q.address = address;
-		q.company = company;
+		XMLElement * company = QA->FirstChildElement("company");
+		if (company) {
+			q.company = company->GetText();
+		}
+		
+		XMLElement * addr = QA->FirstChildElement("address");
+		if (addr) {
+			string address = addr->GetText();
+			q.address = address;
+		}		
+		
 		q.country = country;
 		q.type = type;
 		q.work = workNo;
