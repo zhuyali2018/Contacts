@@ -185,36 +185,76 @@
   </history>
 </contact>
 
-<contact ID="7" name="xxxyyxxxyyxxxyy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID="7" name="Wes Koral      " type="Recruiter" phone="847-273-3636" work="xxx" country="USA" email="wkoral@aerotek.com" >
   <company>
-     What company
+     Aerotek
   </company>
   <address>
-     what location
+     1501 E Woodfield Rd. Suite #250W, Schaumburg, IL 60173
   </address>
 
-  <history datetime="2018.06.21" title="Job at Washington DC">
-       What history
+  <history datetime="2018.06.22" title="Developer Job at Lafayette, Louisiana">
+       Called in, says it is a for military project, will call back next Tuesday morning 
+       to see how my interview with L-3 going. It is a 6 month to hire role.
+
+	Location: Lafayette, Louisiana
+
+	Job Title: Software Engineer
+
+	Duration: Full time
+
+	Industry: Defense/Commercial & Industrial Products
+	
+	Details:
+
+	Our client provides autonomous boats for offshore Surveying. They are looking to grow their software engineering team, and have a need for Software Engineers. This person will be working on a team of approximately 10, and will be developing software for their products. This role will be broken down into:
+
+ 
+
+	60% Writing Code (C, C++, Linux)
+
+	20% Code Review
+
+	20% Higher level design tasks
+
+ 
   </history>
-  <history datetime="2018.06.21" title="Confirmation of hourly rate">
-       what history 2
-  </history>
+ 
 </contact>
 
-<contact ID="8" name="xxxyyxxxyyxxxyy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID="8" name="Saurabh Saxena " type="Recruiter" phone="919-461-8143" work="xxx" country="USA" email="saurabh.saxena@acsicorp.com" >
   <company>
-     What company
+     ACS Group
   </company>
   <address>
-     what location
+     2400 Meadowbrook Parkway | Duluth, GA-30096
   </address>
+  <history datetime="2018.06.22" title="Rate confirmation of $55/hour">
+	Please confirm the rate of $55/hr on W2(without benefits) for this position with L&T. 
+        Please reply back with your updated resume and don’t authorize any other agency to submit 
+        your resume for the same position with them.
+  </history>
+  <history datetime="2018.06.22" title="Linux Firmware Developer C++ Job at Atlanta, Geogia">
+       Job Title: C++, Linux Firmware Developer
 
-  <history datetime="2018.06.21" title="Job at Washington DC">
-       What history
+	Location: Atlanta GA
+	C++, Linux Firmware Developer
+	Required Skills
+
+	  Extensive experience with unit testing (google test, catch2 etc)
+          Experience developing test scripts in python
+          Experience in application development using C++11.
+          Experience with application development on a Linux platform
+	Nice to have Skills
+
+          Experience establishing unit test frameworks (CppUnit, googletest, etc)
+          Experience with JavaScript
+          Experience with TDD
+          Experience with Linux cross compilation environments, clang etc.
+          Experience with BeagleBone or RaspberryPI
   </history>
-  <history datetime="2018.06.21" title="Confirmation of hourly rate">
-       what history 2
-  </history>
+  
+  
 </contact>
 
 <contact ID="9" name="xxxyyxxxyyxxxyy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >

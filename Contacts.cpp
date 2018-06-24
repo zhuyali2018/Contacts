@@ -166,6 +166,7 @@ vector<Contact> GetContacts(XMLElement * parent) {
 		q.country = country;
 		q.type = type;
 		q.work = workNo;
+		q.email = email;
 
 		XMLElement * QAHistory = QA->FirstChildElement("history");
 		if (QAHistory) {
