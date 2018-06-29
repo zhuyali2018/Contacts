@@ -165,8 +165,7 @@ vector<Contact> GetContacts(XMLElement * parent) {
 		
 		XMLElement * addr = QA->FirstChildElement("address");
 		if ((addr)&&(addr->GetText())) {
-			string address = addr->GetText();
-			q.address = address;
+			q.address = addr->GetText();
 		}		
 		
 		q.country = country;
