@@ -2,29 +2,72 @@
 <!DOCTYPE QR SYSTEM "YaliContact.dtd">
 
 <Yalicontacts>
-<contact ID=" 0" name="dummy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID="0" name="Celina Vargas" type="Recruiter" phone="571-721-8447" work="xxx" country="USA" email="cvargas@alionscience.com" >
   <company>
-     What company
+      Alion Science and Technology
   </company>
   <address>
-     what location
+     Alion in our Orlando, FL location
   </address>
-
-  <history datetime="2018.06.21" title="Job at Washington DC">
-       What history
-  </history>
   <history datetime="2018.06.21" title="Confirmation of hourly rate">
-       what history 2
+       Alion Science and Technology is seeking a Software Developer generalist to support various DoD simulation and training 
+       system programs.  This position is located in Orlando, FL.
+
+       Essential Duties and Responsibilities:
+
+         *  Design, develop, document, and test high-quality software solutions in a fast-paced environment.
+         *  Troubleshoot, modify, develop new, and test functionality within existing code bases.
+         *  Assist in the requirement gathering, design, development, documentation, testing, and delivery of new training systems.
+         *  Develop tools and applications by producing clean, efficient code
+         *  Review and debug code
+         *  Identify, prioritize, and execute tasks in the software development life cycle.
+         *  Identify and direct resolution of complex hardware/software interface issues or other technical problems.
+         *  Mentor junior and mid-level engineers.
+       
+       Qualifications:
+              
+         *  Bachelor's degree in Computer Science or a related technical field
+         *  5+ years of software engineering experience across the SDLC
+         *  Fluent in C/C++ and/or C#
+         *  Strong analytical and problem-solving skills
+         *  Ability to understand abstract concepts in order to apply solutions to real training needs and requirements
+         *  Ability to work independently with little supervision
+         *  Excellent organizational and leadership skills
+         *  Eagerness and willingness to learn new technologies
+         *  Experience in communicating with users, other technical teams, and management to collect requirements, identify tasks, provide estimates, and meet production deadlines
+       
+       Preferred Experience:
+              
+         *  Software Configuration Management tools (e.g. Subversion)
+         *  Bug tracking software (e.g. Bugzilla, MantisBT)
+         *  UML
+         *  MySQL
+         *  Scripting
+         *  Game Engines (e.g. Unreal)
+         *  Linux IDE (e.g. Eclipse)
+         *  CIGI
+         *  HLA/DI
+
+       U.S. Citizenship Required. This position requires the ability to obtain and maintain a DOD security clearance at the Secret level.
+
   </history>
 </contact>
-<contact ID=" 1" name="Krishna Venkata" type="Recruiter" phone="703-459-0495" work="571-612-3946" country="USA" email="kvenkata@princetoninformation.com" >
+<contact ID="1" name="Krishna Venkata" type="Recruiter" phone="703-459-0495" work="571-612-3946" country="USA" email="kvenkata@princetoninformation.com" >
   <company>
      Princeton Information
   </company>
   <address>
      11600 Sunrise Valley Drive, Suite 270, Reston VA 20191
   </address>
+  <history datetime="2018.06.25" title="Interview for Job at Fannie Mae at Washington DC">
+       Interview date : 06/26/2018 (Tuesday)
+       Interview Time: 2:15PM EST.
+       You have to call the conference Number at 2:15PM EST 06/26/2018 (Tuesday):
+         Conference Number :202-752-2000
+         Access code: 801 771 616
 
+         Andrey Makeyev is the hiring manager you will be interviewing.
+  </history>
   <history datetime="2018.06.21" title="Job at Washington DC">
        Job Title: Software Developer/Programmer
   </history>
@@ -187,12 +230,14 @@
 
 <contact ID="7" name="Wes Koral      " type="Recruiter" phone="847-273-3636" work="xxx" country="USA" email="wkoral@aerotek.com" >
   <company>
-     Aerotek
+     Aerotek of Allegis Group
   </company>
   <address>
      1501 E Woodfield Rd. Suite #250W, Schaumburg, IL 60173
   </address>
-
+  <history datetime="2018.06.26" title="Developer Job at Lafayette, Louisiana. Called Back asking my interiew with L3">
+      Said he will look at anywhere near west orlando to see if I can go there to talk to someone in his company
+  </history>
   <history datetime="2018.06.22" title="Developer Job at Lafayette, Louisiana">
        Called in, says it is a for military project, will call back next Tuesday morning 
        to see how my interview with L-3 going. It is a 6 month to hire role.
@@ -257,52 +302,656 @@
   
 </contact>
 
-<contact ID="9" name="xxxyyxxxyyxxxyy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID="9" name="Chinna Bhukya  " type="Recruiter" phone="510-201-5925" work="309-740-7703" country="USA" email="CBhukya@lat36.com" >
   <company>
-     What company
+     Latitude 36, Inc
   </company>
   <address>
-     what location
+     xxx
   </address>
 
-  <history datetime="2018.06.21" title="Job at Washington DC">
-       What history
+  <history datetime="2018.06.26" title="Confirmation of a skype interview">
+       Friday, 6/29 at 3:00 PM – 3:45 PM CST
   </history>
-  <history datetime="2018.06.21" title="Confirmation of hourly rate">
-       what history 2
+  <history datetime="2018.06.12" title="Programmer/Developer at Peoria, Il">
+     Specialized Developer - 24 — (8250109)
+
+     Peoria, IL 61629
+
+     24 months
+
+     Candidate Responsibilities
+     Develop and modify C++/C#, Sas, R, SQL, .NET computer applications in support of corporate strategic capacity 
+     planning process. Responsible for maintaining the software for sustained daily operations, troubleshooting to 
+     maximize operational efficiency across the company.
+
+     Typical Day
+     Remote work location possible, must be available for in-person meetings once a week in Peoria area. Minimum 
+     business travel required. Available for occasional ad-hoc meetings during off hours. Core hours are 9:00-3:00
+
+     Overtime will not be consistent but it will happen on occasion. Estimated occasional OT will be 100 hours per year.
+
+     Education Requirements: 
+     Master’s degree in mathematics/statistics/software engineering/physics/computer science or equivalent training 
+     with emphasis on statistics required.
+
+     Technical Skills
+
+     Min 5 years in development of mathematical or financial computer algorithms and object-oriented programming required.
+     Proficiency with SQL and database (preferably Oracle) interfacing required. Knowledge of C++/C# coding, development 
+     of database interfacing applications, development of statistical models required.
+
+     Preferred: Ideal candidate has experience developing .NET web applications, experience with R and/or Sas, and Tableau.
+     Differentiating Factor: Experience with stochastic processes and uncertainty modelling, financial modelling, 
+     accounting and/or supply chain modelling
+
+     Soft Skills
+
+     Problem solver, able to work independently and proactively work with the development team as well as process 
+     partners worldwide
+
+ 
+
+     Travel Requirement:
+     Very limited local travel.
+
+     On-Site Interview Required:
+     Yes
   </history>
+
 </contact>
 
-<contact ID="10" name="xxxyyxxxyyxxxyy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID="10" name="Vandana Dixit  " type="Recruiter" phone="609-853-0818" work="xxx" country="USA" email="vandana.dixit@nityo.com" >
   <company>
-     What company
+     Nityo
   </company>
   <address>
-     what location
+     what location ?
   </address>
+  <history datetime="2018.06.27" title="Phone interview, C/C++/C# with strong SQL Job at Dallas, TX">
+        Phone interivew at 3:00 pm 
+  </history>
 
-  <history datetime="2018.06.21" title="Job at Washington DC">
-       What history
+  <history datetime="2018.06.26" title="C/C++/C# with strong SQL Job at Dallas, TX">
+       Hope you are doing well,
+   
+          Position:               C/C++/C# with strong SQL
+          Location:               Dallas, TX 
+          Duration:               Full Time, 120k
+
+     Skills:
+
+          C/C++/C# with strong SQL
+          Experience in C/C++
+
+     Role
+
+          Manage all issues and preventative maintenance
+          Resolve all issues and queries escalated from production support
+          Excellent communication and presentation skills
+          Ability to work independently and in a team
   </history>
-  <history datetime="2018.06.21" title="Confirmation of hourly rate">
-       what history 2
-  </history>
+
 </contact>
-
-<contact ID="" name="xxxyyxxxyyxxxyy" type="Recruiter" phone="xxx" work="xxx" country="USA" email="xxx@xxx.com" >
+<contact ID="11" name="Celina Vargas  " type="Recruiter" phone="571-721-8447" work="xxx" country="USA" email="cvargas@alionscience.com" >
   <company>
-     What company
+      Alion Science and Technology
   </company>
   <address>
-     what location
+     Alion in our Orlando, FL location
   </address>
-
-  <history datetime="2018.06.21" title="Job at Washington DC">
-       What history
-  </history>
   <history datetime="2018.06.21" title="Confirmation of hourly rate">
-       what history 2
+       Alion Science and Technology is seeking a Software Developer generalist to support various DoD simulation and training 
+       system programs.  This position is located in Orlando, FL.
+
+       Essential Duties and Responsibilities:
+
+         *  Design, develop, document, and test high-quality software solutions in a fast-paced environment.
+         *  Troubleshoot, modify, develop new, and test functionality within existing code bases.
+         *  Assist in the requirement gathering, design, development, documentation, testing, and delivery of new training systems.
+         *  Develop tools and applications by producing clean, efficient code
+         *  Review and debug code
+         *  Identify, prioritize, and execute tasks in the software development life cycle.
+         *  Identify and direct resolution of complex hardware/software interface issues or other technical problems.
+         *  Mentor junior and mid-level engineers.
+       
+       Qualifications:
+              
+         *  Bachelor's degree in Computer Science or a related technical field
+         *  5+ years of software engineering experience across the SDLC
+         *  Fluent in C/C++ and/or C#
+         *  Strong analytical and problem-solving skills
+         *  Ability to understand abstract concepts in order to apply solutions to real training needs and requirements
+         *  Ability to work independently with little supervision
+         *  Excellent organizational and leadership skills
+         *  Eagerness and willingness to learn new technologies
+         *  Experience in communicating with users, other technical teams, and management to collect requirements, 
+            identify tasks, provide estimates, and meet production deadlines
+       
+       Preferred Experience:
+              
+         *  Software Configuration Management tools (e.g. Subversion)
+         *  Bug tracking software (e.g. Bugzilla, MantisBT)
+         *  UML
+         *  MySQL
+         *  Scripting
+         *  Game Engines (e.g. Unreal)
+         *  Linux IDE (e.g. Eclipse)
+         *  CIGI
+         *  HLA/DI
+
+       U.S. Citizenship Required. This position requires the ability to obtain and maintain a DOD security clearance at the 
+       Secret level.
+
   </history>
 </contact>
+<contact ID="12" name="Jai Shankar   " type="Recruiter" phone="408-963-0362" work="xxx" country="USA" email="jai.shankar@idctechnologies.com" >
+  <company>
+      IDC Technologies
+  </company>
+  <address>
+     851 McCarthy Blvd, Suite 112 to 118 Milpitas, CA 95035
+  </address>
 
+  <history datetime="2018.06.27" title="C++ Developer Job at McLean, VA">
+     Job Title: C++ Developer
+     Location: McLean, VA
+     Duration: 12+ Months with possible extension
+
+     Required Skills:
+     C, C++, Unix, Shell Scripting, Perl Scripting, SQL.
+     Strong hands on experience in full software life cycle development
+     Strong understanding of object oriented programming and development
+     Extensive experience in C / C++ development
+     Work experience in Cross platform C/C++ library development
+     Knowledge about developing multi-threading highly scalable components
+     Experience with Perl & Shell script development
+     Experience in UNIX environment
+     Strong hands on experience in SQL.
+
+  </history>
+
+</contact>
+<contact ID="13" name="Elaine Wall   " type="Recruiter" phone="972-448-7019" work="xxx" country="USA" email="Elaine.wall@randstadusa.com" >
+  <company>
+     Randstad 
+  </company>
+  <address>
+     3011 Internet Blvd #300  
+     Frisco, TX 75034 
+  </address>
+
+  <history datetime="2018.06.26" title="Aviation Test Engineer Job at Dayton, OH">
+     Job title:   Aviation Test Engineer
+     Location:  Dayton, OH
+     Contract: 6 month contract
+
+     Must be legally authorized to work in the US without additional sponsorship
+
+     Top 3 Skill sets:
+
+     1.  Need at least 10 yrs experience. Must have an Electrical Engineering.  Systems
+     Engineer a plus.
+
+     2. Need  High Voltage Power Generation . Experience with planning and executing power
+     testing in a test lab.
+
+     3. Test, set up, safety of the test environment , knowledge power generation test
+     equipment
+
+      Job Description
+
+     Work on-site at GE EPIS Center coordinating and planning BEPS testing including detailed
+     test plan and data collection for the Backup GEnerator (BUG) and Backup Converter (BUC).
+     execute dry run and test for credit on entire BEPS system
+
+     Electrical Engineer or BUG or BUC and DO-254  (e.g. DO-178B like) or DO-160 or
+     MIL-STD-810 or drive stands or high power load banks
+
+     Avionics and Power Generation experience required
+
+  </history>
+</contact>
+<contact ID="14" name="Aman Singh    " type="Recruiter" phone="732-325-3779" work="xxx" country="USA" email=" amans@synkriom.com" >
+  <company>
+     Synkriom Inc.
+  </company>
+  <address>
+     30 Knightsbridge Road, Suite 525, Piscataway, New Jersey, 08854
+  </address>
+
+  <history datetime="2018.06.21" title="SW Engineer Job at Waukesha WI">
+     Role: SW Engineer
+     Location: Waukesha WI - 53188
+     Position Type: Contract to Hire
+     
+     Required Skills: Linux, Perl & Python. C++ Mandatory.
+     
+     Mandatory Technical Skills	
+     • Bachelor’s Degree in Computer or Engineering related discipline
+     • Working experience on the Linux environment (preferably RedHat Enterprise Linux)
+     • Working knowledge of Scripting languages (i.e. Python, Perl, and Bash)
+     • Working knowledge of Java and C++
+     • Working knowledge of web technologies, such as Angular JS/Node JS and HTML
+     
+     Desirable Technical Skills	
+     • Working experience of Spring & Spring-boot
+     • Working experience with web technologies
+     • Working experience with containers (Docker and LXC)
+     • Working experience with basic network diagnostics
+     • Has experience with software test automation
+  </history>
+
+</contact>
+<contact ID="15" name="Divya Gupta   " type="Recruiter" phone="412-200-1197" work="877-884-8834" country="USA" email="Divya.Gupta@mastechdigital.com" >
+  <company>
+     Mastech Digital Inc.
+  </company>
+  <address>
+     1305 Cherrington Parkway
+     Building 210, Suite 400
+     Moon Township PA 15108
+  </address>
+
+  <history datetime="2018.06.26" title="Software Engineer Job at Orlando, FL">
+     Role        :     Software Engineer
+     Location    :     Orlando, FL
+     Duration    :     6 Months (with possibility of extension)
+
+     Responsibilities:
+     - Ensure that tasks are delivered in a timely manner and that adequate resources are
+     available for upcoming tasks
+     - Proactively provide support and fix issues before they are raised by the game team.
+     - Provide feedback to the game team about best practices and give advice on the best way
+     to accomplish goals.
+     - Communicate new ideas, new tech, and fixes made on their title to their DRE colleagues.
+     - Maintain and support automation farm for builds and tests, including software
+     configuration, software updates, and setting up new projects
+     - Provide first-tier troubleshooting support for automation infrastructure
+     - Monitors systems and proactively respond to breakages
+     - Develop and maintain scripts in C# for automated game-testing
+     - Document issues and solutions to enable team members to assist in problems and apply
+     the solutions across a variety of environments and game teams
+     - Monitor and analyze metrics in order to optimize automation systems
+     - Manage access requests within CM infrastructure (source code and build output)
+     - Integrate test systems and tools into production game code in C++
+     - Maintain tools, integrations, and technologies to support a highly reliable release
+     environment
+     - Provide accurate time estimation as input to project plans
+     - Report regular status on assigned tasks and proactively identify project risks and
+     issues
+     - Some travel may be required (&lt; 10%)
+
+     Required Skills:
+     - Software development experience
+     - Ability to work in a dynamic and collaborative team environment
+     - Experience with revision control systems (e.g. Perforce) administration and
+     version-control concepts including branching and integrations
+     - Knowledge in one or more of the following: C#, C++, Python, Perl, Java, XML
+     - Experience writing, debugging and optimizing SQL queries and stored procedures in MS
+     SQL or similar SQL based database server
+     - Knowledge of Configuration Management  and  CM best practices
+     - Ability to identify and resolve performance bottlenecks in highly complex systems
+     including network, OS or hardware
+     - Excellent communication skills
+     - Strong ability to self-manage and prioritize work effectively within deadlines
+     - Demonstrated analytical and problem solving skills
+     - Ability to quickly learn and apply new concepts, principles and solutions
+     - Excellent documentation skills
+
+  </history>
+
+</contact>
+<contact ID="16" name="Rene Pandio   " type="Recruiter" phone="561-270-0631" work="xxx" country="USA" email="rpandio@gdkn.com" >
+  <company>
+     GDKN Corporation
+  </company>
+  <address>
+     1779 North University Drive, Pembroke Pines, FL 33024
+  </address>
+
+  <history datetime="2018.06.27" title="Software Quality Eng Job at Orlando, FL">
+     Requirement-ID: 173904
+     Position: Software Quality Engr Asc - Level 2
+     
+     Pay Rate: Depending on Experience
+     Location: Orlando, FL-32825
+     
+     Job Description
+     Mandatory:
+     
+     •    Prior Software Quality Experience; Prior Audit Experience 
+     
+     Skill Matrix: 
+     
+     Skill Name  Description     Level (1-5, 5 being the highest) 1   2   3   4   5       
+     Years     Mandatory(Yes/No) 
+     •    Software Quality Engineering  4-5 Years     Yes 
+     •    Internal Audit                4-5 Years     Yes 
+     •    Software Testing              4-5 Years     Yes 
+     •    Code Peer Review              4-5 Years     Yes 
+     •    AS9100 Knowledge              0-3 Years     No 
+     •    CMMI Knowledge                0-3 Years     No 
+     •    Lean/Six Sigma Knowledge      0-3 Years     No 
+  </history>
+</contact>
+<contact ID="17" name="Clark Padilla " type="Recruiter" phone="954-296-2486" work="xxx" country="USA" email="cpadilla@magicleap.com" >
+  <company>
+     Magic Leap
+  </company>
+  <address>
+     Plantation, FL
+  </address>
+
+  <history datetime="2018.06.27" title="Virtual Reality Job at Plantation, FL">
+       Had a phone chat with him
+  </history>
+</contact>
+<contact ID="18" name="Sunny Joseph  " type="Recruiter" phone="973-866-0132" work="xxx" country="USA" email="sunny@ifinitesolutions.com" >
+  <company>
+     iFinite Solutions LLC
+  </company>
+  <address>
+     181 New Road Suite # 304
+     Parsippany, NJ - 07054
+  </address>
+
+  <history datetime="2018.06.27" title="Software Developer Job at Wilton CT">
+
+     POSITION: Software Developer
+     
+     LOCATION: Wilton CT
+     DURATION: Long Term
+     VISA: USC, GC ONLY on iFinite W2 or 1099
+     MODE OF INTERVIEW: Phone / Skype
+     RATE: $ 70 / Hr on W2
+     
+     Job Description:
+     
+     Technical Requirements:
+     - 4+ years&apos; experience in system architecture design
+     - 8+ years of back-end development experience
+     - Strong sense of good user experience (UX).
+     - Superb written and verbal communication skills.
+     Preferred Qualifications:
+     - Experience supporting and enhancing a public or paid API
+     - Degree in Computer Science or related
+     
+     Duties & Responsibilities:
+     - Understand the design requirements for our application. Understand both the immediate
+       functionality but also design in the context of future functional plans.
+     - Design all the API objects based on current requirements.
+     - Design the interaction and messaging patterns for the API
+     - Consider load and scale in the API&apos;s design
+     - Document the API in Swagger
+     - Communicate the functionality to our internal development team
+     - Recommend a base programming language with justification and pros/cons
+
+  </history>
+
+</contact>
+<contact ID="19" name="Ramandeep Kaur" type="Recruiter" phone="310-299-0681" work="xxx" country="USA" email="Rkaur@rjtcompuquest.com">
+  <company>
+     rjtcompuquest.com
+  </company>
+  <address>
+     222 N Sepulveda Blvd., Suite 2250 El Segundo CA 90245
+  </address>
+
+  <history datetime="2018.06.28" title="Backend Java Developer Job at Glendale CA">
+     Backend Java Developer
+     12 months contract
+     Glendale CA
+
+     Job Description:
+     -This position is responsible for implementing software to meet functional requirements
+     and to build efficient, highly scalable solutions for Asset Management project team.  The
+     person in this role must have experience in object oriented design and development with
+     advanced Java technologies and have a desire to work in a highly collaborative team,
+     using agile development methodologies.
+
+     - Design, implement, and unit test complex software solutions.
+     - Partner with Product Development and project team to analyze business requirements,
+     understand business goals, define project roadmaps, and define use-cases to deliver
+     technical solutions.
+     - Follow coding guidelines and best practices when coding a solution and assist in
+     continually improving the guidelines.
+     - Implement new functionality in the UI and backend, including database access,
+     integration through Web Services, etc.
+     - Perform performance tuning, improvement, balancing, automation
+     - Assist QA team in understanding the requirements and review test scripts.
+     - Troubleshoot and resolve defects.
+     - Provide required implementation, configuration, and deployment documentation.
+     - Troubleshoot production problems and work on their resolution.
+     - Write technical documentation.
+     - Follow agile practices.
+     - Evaluate and identify new technologies for implementation.
+     -
+     Responsibilities
+     - 5-12 years&apos; experience years&apos; total software development and integration experience
+     - Minimum 5 years of enterprise applications development with Java EE, Java SE , Core
+     Java
+     - Excellent working knowledge of Spring, JSP/JSF, servlets, JMS, JDBC, SOA, cloud
+     programming
+     - Excellent working knowledge of Web Services: REST, SOAP, XML, JSON, WSDL, and XSD
+     - Strong experience using Java frameworks such as Spring, Hibernate, Struts
+     - Experience with presentation technologies such as (X)HTML, CSS, JavaScript, and AJAX
+     highly desirable
+     - Excellent working knowledge of relational database such as SQLServer, Oracle, MySQL
+     - Knowledge of non-relational databases such as MongoDB, Amazon S3, Cassandra highly
+     desirable
+     - Strong analytical and problem solving skills
+     - Experience working with accelerated file transfer systems such as Aspera and Signiant
+     highly desirable.
+
+  </history>
+</contact>
+<contact ID="20" name="Tyler Hayes" type="Recruiter" phone="212-306-0159" work="xxx" country="USA" email="tyler.hayes@axelon.com">
+  <company>
+    Axelon Services Corporation
+  </company>
+  <address>
+    New York, NY 10005
+  </address>
+
+  <history datetime="2018.06.28" title="IT Project Manager Job at Orlando, FL">
+   -Job description:
+     -
+     -IT Project Manager
+     -Orlando, FL
+     -1 Year
+     -W2 ONLY
+     -
+     -Hours:
+     -8:30-5:30
+     -
+     -Lead and direct technology solutions through all phases of the project. Must be able to
+     manage all efforts required to remain within the bounds of schedule and budget with the
+     ultimate objective of proactively maintaining a high level of user satisfaction
+     throughout the project. Demonstrates experience in managing projects of various sizes,
+     complexity and types (e.g., application development, outsources services). Can execute
+     Software Development Methodology and techniques as developed and governed by our internal
+     Project Management office. Proactively fosters an environment of collaboration among
+     teams and provides day-to-day direction for team resources. This includes all aspects of
+     systems implementation from requirements gathering, analysis and design, configuration
+     and test, through deployment and support of various system applications including
+     developing detailed work plans, assigning responsibilities, organizing inter- and
+     intra-departmental activities, conducting project meetings, providing project tracking
+     details and project analysis.
+     -
+     -Planning and Prioritization PM
+     -Required
+     -Senior Level Technology Project Manager (8 to 10 years) of proven experience managing
+     technology projects in a large matrix organization.
+     -Minimum 3 to 5+ years specifically managing mid to large complex technology projects
+     using Agile methods/frameworks: Scrum, Kanban, XP.
+     -Proven experience with dependency management and cross team coordination of multiple
+     SCRUM teams using Agile Ceremony Facilitation.
+     -Coordinate cross-functional teams to gain agreement on scope, approach, assumptions,
+     dependencies, risks, and budget.
+     -Manage approved program/project through the lifecycle, including change requests, issues
+     management, risk management, and status reporting.
+     -Experience in managing Individual project budgets size: in the millions
+     -Coordinate with all stakeholders and dependent projects to develop detailed program
+     schedule or agile release plans.
+     -Own and drive organizational change management and the implementation of new company
+     process improvement initiatives.
+     -Ability to understand and articulate complex technology requirements and milestones.
+     -Must exhibit strong interpersonal skill, with ability to work with a variety of
+     personality types.
+     -Proven experience successfully managing end-to-end a vendor-based technology COTS
+     solution.
+     -Proven experience working with complex and integrated technology systems; at an
+     enterprise level with multiple integration partners.
+     -Able to successfully adapt, build relationship, and influence complex Business and
+     Technology stakeholders.
+     -Proven PM experience managing projects with geographically dispersed teams.
+     -Excellent communication skills.
+     -Proven experience influencing and presenting to leadership.
+     -Excellent relationship builder.
+     -Experience working with diverse stakeholders with differing expectations.
+     -Must thrive working independently in a very fast-paced, results-oriented environment.
+     -Required Tools:
+     -Version One/JIRA
+     -Proficient Microsoft Office skills
+     -
+     -Nice to Have
+     -Working experience with Agile scaling frameworks, preferably SAFe
+     -Preferred certifications: Project Management Professional (PMP), Certified Scrum Master
+     (CSM), Agile Certified Professional (ACP), Safe Program Consultant (SPC), Safe Agilist
+     (SA)
+     -Clarity tools project management tools.
+   </history>
+</contact>
+
+<contact ID="21" name="Selva         " type="Recruiter" phone="661-558-0000" work="xxx" country="USA" email="selva@krgtech.com">
+  <company>
+     KRG Technologies, Inc.
+  </company>
+  <address>
+    25000 Avenue Stanford, Suite #243, Valencia, CA 91355
+  </address>
+     <history datetime="2018.06.28" title="Job at Pittsburge, PA">
+         1. Rate - $70/hr on W-2 for all clients approved time hours
+         2. Pay day is 15th (for the pay period of 1st to 15th) and on 31st (for the pay period of 16th to 31st), 
+            paycheck will be mailed out via USPS / Direct Deposit.
+
+
+
+        Client: L&T
+
+ 
+     -Job Description:
+
+     -Bachelor's Degree in Computer Science, Electrical Engineering, or related technical field
+     -Six or more years of professional experience developing embedded software for use in
+      transportation sector - Auto, Aero, Marine, Locomotive, Off-highway, etc
+     -Expertise in high-level programming languages such as C, C++, C#, R, Java, Python, etc
+     -Expertise in systems related to locomotives & train applications:
+     -Positive Train Control (PTC)
+     -Fire & Safety
+     -Automated Security Solutions
+     -IP Surveillance Solutions
+     -Propert Management
+     -Expertise in Agile methodologies - experience as Scrum Master or team lead is highly
+      preferred
+     -Expertise in all phases of software development - from concept to completion
+     -Proficiency with n-Tier, Microsoft Tools, SLM, various embedded software development and
+      testing tools
+     -Excellent written and verbal communication skills to coordinate the activities of
+      diverse, cross-functional project teams located onsite and remotely/offshore
+     -Proven leadership abilities
+     -Able to work independently with minimal direct supervision while effectively organizing
+      time and work to meet project deliverables and key deadlines
+  
+  </history>
+</contact>
+<contact ID="22" name="Hitesh Bhatnagar" type="Recruiter" phone="631-649-1313" work="xxx" country="USA" email="hitesh.bhatnagar@okayainc.com">
+  <company>
+    Okaya Inc
+  </company>
+  <address>
+    Location: Orange park, FL 32003
+  </address>
+
+  <history datetime="2018.06.28" title="Senior Software Developer Job at Orange park,  FL">
+     -Job Title:  Senior Software Developer
+     -Location: Orange park,  FL 32003
+     -Job Type : Permanent
+     -Note: Candidate must be a US Citizen. Who May Have Secret clearance or eligible to obtain
+     -
+     -ASI has been on the Inc. 5000 list of fastest growing companies in America for the last
+     5 years. We are looking for a Senior Software Developer to join the team in our Orange
+     Park, FL office. This position requires a self-starter that thrives in green-field
+     projects. As a part of our growing team, you will:
+     -
+     -regularly work on brand new enterprise applications and be part of the team that designs
+     and builds their architectural foundation from the ground up
+     -have the opportunity to quickly grow into leadership roles
+     -be part of a growing application suite adopting some of the latest technologies in web
+     development, data science, and operations research
+     -
+     -Responsibilities:
+     -
+     -Design and develop complex features with minimal supervision
+     -Work independently in area of functional expertise while collaborating closely with
+     other technical and business functions in a close-knit team environment
+     -Analyze code defects, recommend and implement resolutions
+     -Perform code and architectural reviews of code written by other developers
+     -Perform unit level testing of features and modules developed
+     -
+     -Required Qualifications:
+     -
+     -Bachelor's degree in computer science or related discipline
+     -3 years of on development experience may be substituted for degree
+     -4 years of experience as a software developer
+     -Expert level knowledge of at least one object-oriented programming language (C#, Java,
+     C++)
+     -Significant experience developing with JavaScript and JavaScript frameworks, such as
+     Angular or React
+     -Hands-on experience working on at least 3 large-scale web application projects
+     -
+     -
+     -Preferred Qualifications:
+     -
+     - Experience with:
+     -.NET web applications and the C# language
+     -Entity Framework
+     -MS SQL Server
+     -AngularJS, Angular, JavaScript, TypeScript
+     -Use of versioning tools such as GIT
+     -Use of issue tracking tools such as Jira
+     -
+     -Work Authorization/Security Clearance:
+     -
+     - Must be a U.S. Citizen
+     - May require qualification for Secret Clearance
+  </history>
+</contact>
+<contact ID="23" name="Sbd think I was at St Pet" type="Recruiter" phone="978-662-4170" work="xxx" country="USA" email="xxx">
+  <company>
+    Unknown
+  </company>
+  <address>
+    Andover, MA
+  </address>
+
+  <history datetime="2018.06.29" title="Called in for no job, says will get back to me">
+        called me asked if I am still at St Petersbuerger, then he knows about I was at GE
+        Then he says if he has any job at Florida, Then He said He will come back if had any jobs.
+        Maybe He think I was not good ?
+  </history>
+</contact>
+<contact ID="24" name="Sbd think I was at St Pet" type="Recruiter" phone="978-662-4170" work="xxx" country="USA" email="xxx">
+  <company>
+    Okaya Inc
+  </company>
+  <address>
+    Location: Orange park, FL 32003
+  </address>
+
+  <history datetime="2018.06.29" title="Called in for no job, says will get back to me">
+      
+  </history>
+</contact>
 </Yalicontacts>

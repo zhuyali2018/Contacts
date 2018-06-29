@@ -15,7 +15,7 @@ void promptAtQuestion();
 char filename[100] = "YaliContacts.txt";
 int main(int argc, const char ** argv)
 {
-	cout << "Contacts version 1.10" << endl << endl;
+	cout << "Contacts version 1.30" << endl << endl;
 
 	XMLDocument* doc = new XMLDocument();          //in tinyxml2 namespace
 	if (argc == 1) {
@@ -59,8 +59,10 @@ int main(int argc, const char ** argv)
 			std::size_t found = phone.find(k);
 			std::size_t found2 = work.find(k);
 			if ((found != std::string::npos) || (found2 != std::string::npos)) {
-				std::cout << it->id << " " << phone.c_str() << " " << it->name << " " << it->email << " ";
-				cout << it->histories[0].title << endl;
+				std::cout << it->id << " " << phone.c_str() << " " << it->name << " ";
+				if(it->histories.size())
+				   cout << it->histories[0].title;
+				cout << endl;
 			}
 		}
 
@@ -71,7 +73,9 @@ int main(int argc, const char ** argv)
 			int idinput = atoi(k);
 			if ((k[0] == 'x') || (k[0] == 'q'))
 				exit(0);
-			else if ((idinput > 0) && (idinput < contacts.size())) {
+			else if (k[0] == '\0')
+				break;
+			else if ((idinput >= 0) && (idinput < contacts.size())) {
 				Contact ct = contacts[idinput];
 				showcontact(ct);
 				promptAtQuestion();
@@ -112,14 +116,16 @@ vector<History> GetHistory(XMLElement * brother) {
 	vector<History> h;
 	XMLElement * QA = brother;
 	while (QA) {
-		const char * datetime = nullptr;
-		const char * title = nullptr;
+		const char * datetime = "";
+		const char * title = "";
 		QA->QueryStringAttribute("datetime", &datetime);
 		QA->QueryStringAttribute("title", &title);
-		if ((datetime) && (title)) {
+		if (strlen(datetime) && strlen(title)) {
 			History hist(datetime, title);
-			const string desc = QA->GetText();
-			hist.description = desc;
+			if (QA->GetText()) {
+				const string desc = QA->GetText();
+				hist.description = desc;
+			}
 			h.push_back(hist);
 		}
 		XMLElement * QB = (XMLElement *)QA->NextSibling();
@@ -135,12 +141,12 @@ vector<Contact> GetContacts(XMLElement * parent) {
 	XMLElement* QA = parent->FirstChildElement("contact");
 	while (QA) {
 		int id=0;
-		const char *name = nullptr;
-		const char *phone = nullptr;
-		const char *email = nullptr;
-		const char *country = nullptr;
-		const char *type = nullptr;
-		const char *workNo = nullptr;
+		const char *name = "";
+		const char *phone = "";
+		const char *email = "";
+		const char *country = "";
+		const char *type = "";
+		const char *workNo = "";
 		
 		QA->QueryIntAttribute("ID", &id);
 		QA->QueryStringAttribute("name", &name);
@@ -153,12 +159,12 @@ vector<Contact> GetContacts(XMLElement * parent) {
 		Contact q(id, name, phone, email);
 		
 		XMLElement * company = QA->FirstChildElement("company");
-		if (company) {
+		if ((company)&&(company->GetText())) {
 			q.company = company->GetText();
 		}
 		
 		XMLElement * addr = QA->FirstChildElement("address");
-		if (addr) {
+		if ((addr)&&(addr->GetText())) {
 			string address = addr->GetText();
 			q.address = address;
 		}		
