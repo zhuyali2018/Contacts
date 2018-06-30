@@ -928,7 +928,7 @@
      - May require qualification for Secret Clearance
   </history>
 </contact>
-<contact ID="23" name="Sbd think I was at St Pet" type="Recruiter" phone="978-662-4170" work="xxx" country="USA" email="xxx">
+<contact ID="23" name="Sbd think I was " type="Recruiter" phone="978-662-4170" work="xxx" country="USA" email="xxx">
   <company>
     Unknown
   </company>
@@ -942,16 +942,271 @@
         Maybe He think I was not good ?
   </history>
 </contact>
-<contact ID="24" name="Sbd think I was at St Pet" type="Recruiter" phone="978-662-4170" work="xxx" country="USA" email="xxx">
+
+<contact ID="24" name="Mohd Faizan   " type="Recruiter" phone="408-882-6295" work="xxx" country="USA" email="mohd.faizan@idctechnologies.com">
   <company>
-    Okaya Inc
+    IDC Technologies, Inc.
   </company>
   <address>
-    Location: Orange park, FL 32003
+
   </address>
 
-  <history datetime="2018.06.29" title="Called in for no job, says will get back to me">
-      
+  <history datetime="2018.06.29" title="full time position - C / C++ Developer Job at Etters, PA">
   </history>
 </contact>
+<contact ID="25" name="Ankit Bahuguna" type="Recruiter" phone="408-963-0391" work="xxx" country="USA" email="Ankit.bahuguna@idctechnologies.com">
+  <company>
+    IDC Technologies Inc.
+  </company>
+  <address>
+    Milpitas, CA 95035
+  </address>
+
+  <history datetime="2018.06.29" title="Job at Etters, PA">
+  </history>
+
+
+</contact>
+<contact ID="26" name="Veena Mahindrakar" type="Recruiter" phone="732-343-6396" work="xxx" country="USA" email="veena.mahindrakar@princetoninformation.com">
+  <company>
+    Princeton Information Inc.
+  </company>
+  <address>
+    379 Thornall Street, Edison, NJ 08837
+  </address>
+
+  <history datetime="2018.06.29" title="long term contract Job at Tampa, FL">
+  </history>
+</contact>
+<contact ID="27" name="Kyle Potter" type="Recruiter" phone="774-847-9812" work="xxx" country="USA" email="kpotter@advancedtechno.com">
+  <company>
+    Advanced Technology Innovation Corporation
+  </company>
+  <address>
+
+  </address>
+
+  <history datetime="2018.06.29" title="Embeded C++ Senior Software Engineer Job at Unknown Locantion">
+  </history>
+</contact>
+<contact ID="28" name="Amit Kumar" type="Recruiter" phone="408-418-5778" work="xxx" country="USA" email="Amit.Kumar@idctechnologies.com">
+  <company>
+    IDC Technologies Inc.
+  </company>
+  <address>
+    1851 McCarthy Boulevard, Suite 116|Milpitas, CA , USA, 95035
+  </address>
+
+  <history datetime="2018.06.29" title="Firmware Developer Job at Atlanta, GA">
+     Role: Firmware Developer
+     Location: Atlanta, GA
+     Duration: 6+ Months-1 year
+     
+     Requirement:
+     Relevant Experience  (in Yrs): 8 years
+     Technical/Functional Skills         
+     - Thorough knowledge and experience of C#/C/C++, Python, .Net, CodedUI and QTP, Aplus, 
+     Firmware design including use of agile and test driven development and continuous 
+     integration processes
+     - Experience in Firmware Verification processes and activities, Testing automation, FW 
+     development processes, System Integration testing and Software Releasing Processes
+     - Knowledge of the internationally recognized SW process / best practice models (e.g. 
+     CMMI for Development) is desired
+     - Ability to define problems, collect data, establish facts, and draw valid conclusions
+     - Ability to derive boundary cases and equivalence classes from a software/firmware 
+     specification and quickly produce a minimum test data set.
+     - Ability to convey information concisely and clearly to all levels of personnel.
+     - Ability to communicate with users in non-technical terms both verbally and in writing
+     - Ability to work with people representing different cultures and language areas.
+     - Ability to write routine reports and correspondence.
+     - Ability to speak effectively before groups of customers or employees of the 
+     organization.
+     - Ability to utilize standard computer applications proficiently as they are related to 
+     software/firmware development and testing. Such programs may include, but are not limited 
+     to: MS Office suite, Visual Studio, and various editions of Windows.
+     - Ability to provide daily direction to other team members while still being able to work 
+     on several active projects simultaneously.
+     - Ability to train and mentor other QA engineers in procedures.
+     - High influencing and persuasion skills, leading expert teams with personal drive
+     Experience Required (in Yrs) :10 years
+     Roles & Responsibilities          
+     - Strong background and development experience in one or more programming languages like 
+     C++, C#, Python
+     - A good understanding of internet protocols
+     - Professional database experience in at least one or more SQL databases such as SQL 
+     Server, MySQL, etc.
+     - A passion for quality and a desire to find bugs
+     - Ability to operate comfortably in a multi-task / multi priority environment across a 
+     global team
+     - Experience with client server environments
+     - Proficient knowledge of Microsoft products (Visual studios, Etc.) and Linux.
+     - Experience with WCF, SSL, networking and security
+     - Communicate with the test automation team on tool issues and work with minimal 
+     supervision.
+     - Participate in product design meetings, release planning and scheduling.
+     - Be highly responsive to the problems of internal customers.
+     - Review problem reports and validate the severity and priority of each problem, along 
+     with the development and tool management team.
+     - Perform trainings of different levels to SQA team members in application of the test 
+     environment to automate testing tasks
+     - Coordinate with the Test Automation Manager to take appropriate actions required to 
+     correct software defects.
+     - Serve as a resource for and extend the technological expertise of the QA team by 
+     researching, designing and implementing state-of-the-art testing practices and tools.
+     - Work with SQA to collect and define test environment requirements, write requirement 
+     specifications
+     - Ensure the test environment is adequate for the testing of each development project, 
+     and make additions or modifications to the test lab as necessary to ensure that all tests 
+     are valid.
+     - Lead and recommend improvements to any automation environments.
+     - Represent Company in a positive, professional manner when working with both external 
+     and internal customers.
+     - Support and adhere to Company's Code of Conduct and Ethics Policy.
+     - Perform other duties as assigned or required.
+     Generic Managerial Skills        
+     - Good analytical and communication skills. 
+     - Able to communicate and document designs, as well as troubleshoot and articulate 
+     problems and their solutions.
+     - Demonstrated commitment to process improvement
+     - Customer-focused in defining quality and establishing priorities
+     Strong interpersonal skills
+     - ucation :Associate Degree/Under graduate / Post graduate in computer engineering, 
+     electrical engineering or related field. 
+  </history>
+</contact>
+<contact ID="29" name="Ankit Tiwari" type="Recruiter" phone="408-457-9399" work="xxx" country="USA" email="ankit.tiwary@idctechnologies.com">
+  <company>
+    IDC Technologies, Inc.
+  </company>
+  <address>
+    
+  </address>
+
+  <history datetime="2018.06.29" title="Java Developer/Lead Job at Edison, NJ / Tampa, FL">
+     -Java Developer/Lead
+     -Edison, NJ/ Tampa, FL 
+     -Fulltime/Permanent  
+     - 
+     -Job Description:
+     -We are looking for java developer with any of the skill set which is mentioned below .
+     - 
+     -Skills Set:
+     -Java J2EE, Bigdata eco system, Unix, Oracle
+     -Java, J2EE, Oracle, WebSphere, Unix, Autosys
+     -Java, Oracle, Unix,TIBCO
+     -Java, Oracle
+     -Java, Unix, Oracle
+     -If you are interested please send your most updated resume with following details:
+     -Full Name:	 
+     -Contact #:	 
+     -E-mail ID:	 
+     -Alternate E-mail ID:	 
+     -Current Location:	 
+     -VISA Status:	 
+     -Willing to relocate [Y/N]	 
+     -Highest Qualifications:	 
+     -Last/Current Employer:	 
+     -Current Salary/Rate:	 
+     -Expected Salary:	 
+     -Skype ID [For Web Cam Interview]:	 
+     -Best time to Call:	 
+     -How soon you can Join:  </history>
+</contact>
+<contact ID="30" name="Vishal A. Trivedi" type="Recruiter" phone="973-637-1979" work="xxx" country="USA" email="vishal.atrivedi@collabera.com">
+  <company>
+    collabera
+  </company>
+  <address>
+    
+  </address>
+
+  <history datetime="2018.06.29" title="Application Developer Job at Orlando, FL">
+     -Position Details:
+     -
+     -Industry             IT Services
+     -
+     -Job Title            Application Developer  
+     -
+     -Duration            7 Months
+     -
+     -Work Location   Orlando, FL
+     -
+     -                                    
+     -
+     -Job Description
+     -
+     -Cloud DevOps Engineer Kubernetes
+     -5 to 6 years hands on experience with DevOps
+     -Skills
+     -
+     -Kubernetes
+     -Chef
+     -Linux
+     -AWS 
+     -   </history>
+</contact>
+<contact ID="31" name="Nidhi S" type="Recruiter" phone="614-495-9222" work="xxx" country="USA" email="nidhi.s@usgrpinc.com">
+  <company>
+    United Software Group Inc. 
+  </company>
+  <address>
+    565 Metro Place S. Suite # 110, Dublin, OH 43017 
+  </address>
+
+  <history datetime="2018.06.29" title="Java Developer Job at Jersey City, NJ">
+     -
+     -
+     -Position--Java Developer
+     - 
+     -Location-Jersey City, NJ
+     - 
+     -Duration-Full time 
+     - 
+     -Essential Skills:-
+     -
+     - 
+     -
+     -Experience in software development and hands on with Monolithic to Microservice based 
+     application migration 
+     -5+ years hands-on experience in the Java/J2EE Technologies
+     -Working experience at least in Full Software Development Life Cycle (SDLC) project is 
+     required, experience working in an Agile environment is preferred
+     -Good Communication, Analytical and Problem-Solving Skills
+     -Experience in a high volume transaction processing environment including solving 
+     non-trivial performance-related problems
+     -Ability to identify database bottlenecks and fine tune SQL queries and stored procedures 
+     to maximize performance  </history>
+</contact>
+<contact ID="32" name="Ankush Shekhar" type="Recruiter" phone="408-418-5778" work="xxx" country="USA" email="ankush.shekhar@idctechnologies.com">
+  <company>
+    IDC Technologies Inc
+  </company>
+  <address>
+    
+  </address>
+
+  <history datetime="2018.06.29" title="IOS Developer Job at Irving, TX">
+     -Position Title: 1. Android Developer (3 months to 15 years of experience)
+     -                         2. IOS Developer (3 months to 15 years of experience)
+     -Location: Irving, TX
+     -Visa: Citizen, Green Card and GC-EAD only
+     -Onsite position: Fulltime/permanent 
+     -
+     -Job Description for Android Developer:
+     -Candidate should have minimum 3 months of IT experience on developing scalable Android 
+     native mobile applications
+     -Strong knowledge of Android SDK, different versions of Android, and how to deal with 
+     different screen sizes along with Android Web View .
+     -Strong knowledge of Android UI design principles, patterns, and best practices 
+     -
+     -Job Description for IOS Developer:
+     -Design and build advanced applications for the iOS platform (Swift and Obj-c ) 
+     -Collaborate with cross-functional teams to define, design, and ship new features. 
+     -Unit-test code for robustness, including edge cases, usability, and general reliability. 
+     -Work on bug fixing and improving application performance. 
+     -Continuously discover, evaluate, and implement new technologies to maximize development 
+     efficiency.  </history>
+</contact>
+
+
 </Yalicontacts>
